@@ -1,4 +1,7 @@
-## React Password Generator
+# React Password Generator
 
-## requirements
-# npm install react-toastify
+## Installation requirement
+
+```
+ npm install react-toastify
+```
